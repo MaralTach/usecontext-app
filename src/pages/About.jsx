@@ -24,8 +24,7 @@ const About = () => {
             Lorem, ipsum dolor sit amet consectetur adipisicing elit.
             Praesentium veniam tempore odio, distinctio neque enim eveniet
             consequatur magnam vero ut. Lorem ipsum dolor, sit amet consectetur
-            adipisicing elit. Assumenda sit inventore quae cupiditate, unde
-            voluptate.
+            adipisicing elit. Assumenda sit inventore quae cupiditate
           </p>
         </Col>
         <Col md={6} lg={3}>
